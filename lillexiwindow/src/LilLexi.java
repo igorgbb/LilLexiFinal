@@ -1,5 +1,12 @@
 /*
- * 
+ *  Contributors: Igor Bernardon and Julian Garcia. (Igorb1 , cjuliang)
+ *  Class: CSC 352
+ *  GUI: Built by Igor.
+ *  DESCRIPTION: Text Editor implemented using java awt, and java swing.
+ *  The user is able to insert text,images and rectangles. The user is able
+ *  to edit the text, change font, change color and change font size. The user
+ *  is able to scroll through the document. The user is able to undo and redo
+ *  actions. The user is able to set the text to bold italic or both. 
  */
 
 import java.awt.EventQueue;
